@@ -84,15 +84,15 @@ console.log(developer.getCurrentFocus());
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/?username=ParthLawand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthLawand&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/?username=PaarthLawand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaarthLawand&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ParthLawand&theme=tokyonight&hide_border=true&stroke=0D1117&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=70A5FD" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=PaarthLawand&theme=tokyonight&hide_border=true&stroke=0D1117&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=70A5FD" />
 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ParthLawand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=PaarthLawand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -203,7 +203,7 @@ console.log(developer.getCurrentFocus());
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParthLawand&custom_title=Parth's%20Contribution%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=5BCDEC&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PaarthLawand&custom_title=Parth's%20Contribution%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=5BCDEC&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </div>
 
